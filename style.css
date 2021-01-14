@@ -1,0 +1,29 @@
+h1{
+    padding-left: 80px;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+img {
+    position: absolute;
+    max-height: 30%;
+    top:60px;
+    right: 20px;
+    box-shadow: 5px 5px 5px 5px;
+}
+
+span {
+    color: yellow;
+}
+
+footer {
+    text-align: center;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
